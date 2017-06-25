@@ -275,7 +275,6 @@ adb221b9d8fbb0804f3c60664ced3631
         }
     }
     //I will restart the activity after every  CityName change.
-
     @Override
     protected void onRestart() {
         super.onRestart();
