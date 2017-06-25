@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">weather forecast</string>
+    <string name="change_city">Change city</string>
+
+    <!-- Put your own APP ID here -->
+    <string name="open_weather_maps_app_id">adb221b9d8fbb0804f3c60664ced3631</string>
+
+    <string name="place_not_found">Sorry, no weather data found.</string>
+    <string name="dialog_title">Error!</string>
+    <string name="dialog_message">sorry, something went wrong..kindly Enter a valid city ..eg,. (Cairo,eg) </string>
+    <string name="share_title">the weather today</string>
+
+</resources>
