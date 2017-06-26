@@ -46,9 +46,8 @@ public class MainActivity extends AppCompatActivity {
     public static String cityName;
 /*
     Kindly add your API KEY right here
-adb221b9d8fbb0804f3c60664ced3631
  */
-    String id ="adb221b9d8fbb0804f3c60664ced3631" ;
+    String id = ;
     private String url = "http://api.openweathermap.org/data/2.5/forecast/daily?q=%s&units=metric&&cnt=7&APPID=".concat(id);
 
     public boolean onCreateOptionsMenu(Menu menu) {
