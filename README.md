@@ -1,4 +1,4 @@
-[The project's Repo](https://github.com/Ahmed-Ayman/cookpad_project). (its public now after the Deadline..)
+
 # about the project:
 I have developed this app using the native Java Android libraires and I have used Android studio to do so.
 
