@@ -15,16 +15,10 @@ it contains two activites :
 * It asks the user if he/she wants to go to the settings to open the wifi if it wasn't working.
 * and finally a custom Action bar.
 
-# In order to check my work you can :-
-1.clone [the repo](https://github.com/Ahmed-Ayman/cookpad_project) and add your API Key then you can test the application and checout everything in Android studio..
-2. if you would just check out the Gist then, I would recommend checking it like the following sequence..
+# if you wanna try it :-
 
-- the Splahs.java  activity and its layout splash_screen.xml  
-- the MainActivity and its layout main_activity.xml
-- then the tabs (TodayForecastFragment.java  & WeeklyFragment.java )and their laoyuts.
-- then there is the adapter (WeatheritemsForecastAdapter.java) : list view adapter.
-- the Parsrer which contains a JsonParser method.
-
+1. clone [the repo](https://github.com/Ahmed-Ayman/cookpad_project)
+2. add your API Key then you can test the application and checout everything in Android studio..
 
 here are some pics from the app: (sorry about the resolution by the way..)
 ![cookpad_project](https://github.com//Ahmed-Ayman/cookpad_project/blob/master/images/photo_2017-06-26_02-18-15.jpg?raw=true)
